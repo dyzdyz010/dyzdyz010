@@ -10,7 +10,7 @@ I'm a non-professional programmer, trying something new everyday.
 - 🌱 I’m currently learning **Elixir & Mnesia**
 - 🤔 I’m looking for help with **MMORPG game server infrustructure**
 - 💬 Ask me about [Anything](https://github.com/dyzdyz010/dyzdyz010/issues)
-- 📫 How to reach me: [See My Profile](https://github.com/dyzdyz010)
+- 📫 How to reach me: **Look left of this page⬅️**
 
 <!-- - 👯 I’m looking to collaborate on
 - 😄 Pronouns: ...
