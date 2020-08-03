@@ -16,3 +16,6 @@ I'm a non-professional programmer, trying something new everyday.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
