@@ -16,6 +16,10 @@ I'm a non-professional programmer, trying something new everyday.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ 
+https://github-readme-stats.vercel.app/api?username=dyzdyz010&count_private=true&show_icons=true&theme=dracula&include_all_commits=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
