@@ -22,28 +22,28 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-264853%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 124 Contributions in year 2020
+> 🏆 137 Contributions in year 2020
  > 
-> 📦 Used 189.9 kB in GitHub's Storage 
+> 📦 Used 190.0 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 4 Owned Private Repositories 
+> 🔑 6 Owned Private Repositories 
 
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    32 commits     █████░░░░░░░░░░░░░░░░░░░░   22.7% 
-🌆 Daytime    28 commits     █████░░░░░░░░░░░░░░░░░░░░   19.86% 
-🌃 Evening    81 commits     ██████████████░░░░░░░░░░░   57.45% 
+🌞 Morning    34 commits     █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+🌆 Daytime    37 commits     ██████░░░░░░░░░░░░░░░░░░░   24.34% 
+🌃 Evening    81 commits     █████████████░░░░░░░░░░░░   53.29% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -55,15 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Timezone: Asia/Shanghai
 
 💬 Languages: 
-Docker                   12 mins             ███████████░░░░░░░░░░░░░░   46.76% 
-C                        6 mins              █████░░░░░░░░░░░░░░░░░░░░   22.87% 
-Makefile                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Emacs Lisp               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-Elixir                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+Other                    12 mins             ███████████░░░░░░░░░░░░░░   46.59% 
+Elixir                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Emacs Lisp               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.92%
 
 🔥 Editors: 
-VS Code                  21 mins             ███████████████████░░░░░░   77.13% 
-Xcode                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   22.87%
+VS Code                  26 mins             █████████████████████████   100.0%
 
 ```
 
