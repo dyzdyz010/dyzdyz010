@@ -24,44 +24,44 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-264859%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264859%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 164 Contributions in year 2020
+> 🏆 167 Contributions in the year 2020
  > 
-> 📦 Used 190.0 kB in GitHub's Storage 
+> 📦 190.1 kB Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 36 Public repositories
  > 
-> 🔑 6 Owned Private Repositories 
+> 🔑 6 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    48 commits     ██████░░░░░░░░░░░░░░░░░░░   26.82% 
-🌆 Daytime    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.02% 
-🌃 Evening    84 commits     ███████████░░░░░░░░░░░░░░   46.93% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
+🌞 Morning    49 commits     ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+🌆 Daytime    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.18% 
+🌃 Evening    84 commits     ███████████░░░░░░░░░░░░░░   46.15% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
+💬 Programming Languages: 
 Other                    34 mins             ███████████████████░░░░░░   76.2% 
 Elixir                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
 Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
 JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  45 mins             █████████████████████████   100.0%
 
 ```
