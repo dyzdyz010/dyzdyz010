@@ -22,15 +22,15 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264859%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 195 Contributions in the Year 2020
+> 🏆 201 Contributions in the Year 2020
  > 
-> 📦 190.1 kB Used in Github's Storage 
+> 📦 190.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.95% 
-🌆 Daytime    49 commits     █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   40.95% 
-🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+🌞 Morning    68 commits     ███████░░░░░░░░░░░░░░░░░░   31.48% 
+🌆 Daytime    51 commits     ██████░░░░░░░░░░░░░░░░░░░   23.61% 
+🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   39.81% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.09%
 
 ```
 
@@ -55,10 +55,12 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.0%
+Other                    13 mins             ███████████████░░░░░░░░░░   61.62% 
+Markdown                 8 mins              █████████░░░░░░░░░░░░░░░░   38.38% 
+Elixir                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+VS Code                  21 mins             █████████████████████████   100.0%
 
 ```
 
