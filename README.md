@@ -24,11 +24,11 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264859%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-261454%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 208 Contributions in the Year 2020
+> 🏆 215 Contributions in the Year 2020
  > 
 > 📦 190.2 kB Used in Github's Storage 
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    72 commits     ████████░░░░░░░░░░░░░░░░░   32.29% 
-🌆 Daytime    54 commits     ██████░░░░░░░░░░░░░░░░░░░   24.22% 
-🌃 Evening    86 commits     █████████░░░░░░░░░░░░░░░░   38.57% 
-🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.93%
+🌞 Morning    78 commits     ████████░░░░░░░░░░░░░░░░░   33.91% 
+🌆 Daytime    55 commits     ██████░░░░░░░░░░░░░░░░░░░   23.91% 
+🌃 Evening    86 commits     █████████░░░░░░░░░░░░░░░░   37.39% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.78%
 
 ```
 
