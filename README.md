@@ -22,15 +22,15 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264877%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 280 Contributions in the Year 2020
+> 🏆 295 Contributions in the Year 2020
  > 
-> 📦 190.2 kB Used in Github's Storage 
+> 📦 190.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    127 commits    ██████████░░░░░░░░░░░░░░░   43.2% 
-🌆 Daytime    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-🌃 Evening    101 commits    ████████░░░░░░░░░░░░░░░░░   34.35% 
-🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
+🌞 Morning    141 commits    ███████████░░░░░░░░░░░░░░   45.63% 
+🌆 Daytime    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+🌃 Evening    102 commits    ████████░░░░░░░░░░░░░░░░░   33.01% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
 
 ```
 
@@ -55,10 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   33 mins             █████████████████████████   100.0%
+Rust                     2 hrs 30 mins       ██████████████████████░░░   91.07% 
+Elixir                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
