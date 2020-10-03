@@ -22,13 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264877%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-281629%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 300 Contributions in the Year 2020
+> 🏆 301 Contributions in the Year 2020
  > 
 > 📦 190.3 kB Used in Github's Storage 
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    145 commits    ███████████░░░░░░░░░░░░░░   46.18% 
-🌆 Daytime    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-🌃 Evening    103 commits    ████████░░░░░░░░░░░░░░░░░   32.8% 
-🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
+🌞 Morning    146 commits    ███████████░░░░░░░░░░░░░░   46.35% 
+🌆 Daytime    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+🌃 Evening    103 commits    ████████░░░░░░░░░░░░░░░░░   32.7% 
+🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
 ```
 
