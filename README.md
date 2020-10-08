@@ -24,11 +24,11 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267607%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264877%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 307 Contributions in the Year 2020
+> 🏆 313 Contributions in the Year 2020
  > 
 > 📦 190.3 kB Used in Github's Storage 
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    151 commits    ███████████░░░░░░░░░░░░░░   47.48% 
-🌆 Daytime    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
-🌃 Evening    104 commits    ████████░░░░░░░░░░░░░░░░░   32.7% 
-🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
+🌞 Morning    155 commits    ████████████░░░░░░░░░░░░░   48.29% 
+🌆 Daytime    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+🌃 Evening    105 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
+🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
 
 ```
 
@@ -55,13 +55,10 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     2 hrs 8 mins        ████████████████████████░   96.22% 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
