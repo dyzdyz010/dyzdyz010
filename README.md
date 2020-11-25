@@ -24,7 +24,7 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-283361%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286824%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -55,20 +55,20 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   5 hrs 12 mins       █████████████████████░░░░   84.92% 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
+Elixir                   8 hrs               ██████████████████████░░░   89.74% 
+Python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  8 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://github.com/dyzdyz010/dyzdyz010/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
