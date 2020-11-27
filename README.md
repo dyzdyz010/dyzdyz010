@@ -22,14 +22,12 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286824%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 348 Contributions in the Year 2020
- > 
 > 📦 190.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -55,14 +53,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   11 hrs 33 mins      ███████████████████████░░   95.09% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+Elixir                   12 hrs 55 mins      ██████████████████████░░░   91.4% 
+Gettext Catalog          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       █████████████████████████   100.0%
+VS Code                  14 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
