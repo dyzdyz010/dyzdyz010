@@ -24,15 +24,17 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286824%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319602%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
+> 🏆 400 Contributions in the Year 2020
+ > 
 > 📦 190.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories
+> 📜 37 Public Repositories
  > 
 > 🔑 7 Private Repositories 
 
@@ -53,14 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   10 hrs 43 mins      ███████████████████████░░   91.53% 
-Gettext Catalog          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+Elixir                   7 hrs 56 mins       ██████████████████████░░░   89.3% 
+Gettext Catalog          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-VS Code                  11 hrs 43 mins      █████████████████████████   100.0%
+VS Code                  8 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
