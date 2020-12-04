@@ -24,7 +24,7 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319602%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319676%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -55,14 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   4 hrs 23 mins       █████████████████████░░░░   83.66% 
-Gettext Catalog          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+Elixir                   3 hrs 10 mins       ███████████████████████░░   92.92% 
+Gettext Catalog          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
