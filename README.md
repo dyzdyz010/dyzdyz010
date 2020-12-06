@@ -22,29 +22,29 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319676%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74840%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 405 Contributions in the Year 2020
+> 🏆 406 Contributions in the Year 2020
  > 
-> 📦 190.9 kB Used in Github's Storage 
+> 📦 192.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories
+> 📜 39 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 7 Private Repositories  
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    183 commits    ████████████░░░░░░░░░░░░░   49.59% 
-🌆 Daytime    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-🌃 Evening    121 commits    ████████░░░░░░░░░░░░░░░░░   32.79% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+🌞 Morning    183 commits    ████████████░░░░░░░░░░░░░   49.46% 
+🌆 Daytime    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+🌃 Evening    121 commits    ████████░░░░░░░░░░░░░░░░░   32.7% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
 
 ```
 
@@ -55,14 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ████████████████░░░░░░░░░   66.22% 
-Elixir                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
+JavaScript               1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   41.89% 
+Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43% 
+Text                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
+Elixir                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+HTML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.01%
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
