@@ -22,9 +22,9 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-290490%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324650%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -55,14 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   9 hrs 15 mins       ██████████████████░░░░░░░   71.57% 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+Elixir                   9 hrs 15 mins       █████████████████████░░░░   83.74% 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.45% 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
+SCSS                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
+C++                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 🔥 Editors: 
-VS Code                  12 hrs 56 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
