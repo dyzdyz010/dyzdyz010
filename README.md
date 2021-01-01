@@ -28,7 +28,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 **🐱 My Github Data** 
 
-> 🏆 416 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 192.7 kB Used in Github's Storage 
  > 
