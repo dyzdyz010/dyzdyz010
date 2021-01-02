@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199390%20lines%20of%20code-blue)
 
@@ -55,14 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               39 mins             █████████████░░░░░░░░░░░░   52.81% 
-Bash                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Docker                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+JavaScript               39 mins             ███████████████░░░░░░░░░░   62.15% 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Docker                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
+Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.0%
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
