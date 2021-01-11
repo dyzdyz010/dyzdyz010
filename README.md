@@ -30,7 +30,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 🏆 4 Contributions in the Year 2021
  > 
-> 📦 193.3 kB Used in Github's Storage 
+> 📦 193.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,11 +55,10 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 mins              ████████████████████░░░░░   82.33% 
-Elixir                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.67%
+Elixir                   1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 ```
 
