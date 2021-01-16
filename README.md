@@ -22,13 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202165%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202264%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 4 Contributions in the Year 2021
+> 🏆 5 Contributions in the Year 2021
  > 
 > 📦 193.1 kB Used in Github's Storage 
  > 
@@ -41,9 +41,9 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    192 commits    ████████████░░░░░░░░░░░░░   50.0% 
-🌆 Daytime    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-🌃 Evening    123 commits    ████████░░░░░░░░░░░░░░░░░   32.03% 
+🌞 Morning    192 commits    ████████████░░░░░░░░░░░░░   49.87% 
+🌆 Daytime    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+🌃 Evening    124 commits    ████████░░░░░░░░░░░░░░░░░   32.21% 
 🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
 ```
@@ -55,12 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   30 mins             ███████████████████████░░   94.63% 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.37% 
+Elixir                   2 hrs 40 mins       █████████████████████░░░░   86.79% 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  3 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
