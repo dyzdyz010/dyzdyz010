@@ -30,7 +30,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 🏆 5 Contributions in the Year 2021
  > 
-> 📦 193.1 kB Used in Github's Storage 
+> 📦 193.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
