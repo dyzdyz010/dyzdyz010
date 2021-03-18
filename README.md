@@ -22,13 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203371%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203375%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 21 Contributions in the Year 2021
+> 🏆 23 Contributions in the Year 2021
  > 
 > 📦 193.3 kB Used in Github's Storage 
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    196 commits    ████████████░░░░░░░░░░░░░   49.25% 
-🌆 Daytime    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
-🌃 Evening    127 commits    ████████░░░░░░░░░░░░░░░░░   31.91% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+🌞 Morning    196 commits    ████████████░░░░░░░░░░░░░   49.0% 
+🌆 Daytime    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
+🌃 Evening    127 commits    ████████░░░░░░░░░░░░░░░░░   31.75% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
 
 ```
 
@@ -55,14 +55,14 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   0 secs              ████████████████████████░   96.62% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
+Elixir                   29 mins             ████████████████████████░   96.85% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  30 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      30 mins             █████████████████████████   100.0%
 
 ```
 
