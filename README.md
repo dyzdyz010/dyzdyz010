@@ -55,15 +55,13 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 mins             ███████████████████░░░░░░   78.39% 
-Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-Elixir                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
