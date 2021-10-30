@@ -22,29 +22,29 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19402%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128741%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 30 Contributions in the Year 2021
+> 🏆 69 Contributions in the Year 2021
  > 
-> 📦 197.5 kB Used in Github's Storage 
+> 📦 293.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    188 commits    █████████████░░░░░░░░░░░░   53.87% 
-🌆 Daytime    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-🌃 Evening    95 commits     ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
+🌞 Morning    51 commits     ███████░░░░░░░░░░░░░░░░░░   29.48% 
+🌆 Daytime    42 commits     ██████░░░░░░░░░░░░░░░░░░░   24.28% 
+🌃 Evening    78 commits     ███████████░░░░░░░░░░░░░░   45.09% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 ```
 
@@ -55,19 +55,20 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   45 mins             ████████████████░░░░░░░░░   63.82% 
-JavaScript               21 mins             ███████░░░░░░░░░░░░░░░░░░   30.81% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+Elixir                   22 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.0%
+VS Code                  22 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.0%
+Mac                      22 mins             █████████████████████████   100.0%
 
 ```
 
+**Timeline**
 
+![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
+
+
+ Last Updated on 30/10/2021
 <!--END_SECTION:waka-->
