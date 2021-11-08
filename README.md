@@ -24,11 +24,11 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128912%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129727%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 70 Contributions in the Year 2021
+> 🏆 75 Contributions in the Year 2021
  > 
 > 📦 293.2 kB Used in GitHub's Storage 
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    51 commits     ███████░░░░░░░░░░░░░░░░░░   29.31% 
-🌆 Daytime    42 commits     ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-🌃 Evening    79 commits     ███████████░░░░░░░░░░░░░░   45.4% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+🌞 Morning    51 commits     ██████░░░░░░░░░░░░░░░░░░░   27.13% 
+🌆 Daytime    45 commits     ██████░░░░░░░░░░░░░░░░░░░   23.94% 
+🌃 Evening    90 commits     ████████████░░░░░░░░░░░░░   47.87% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 ```
 
@@ -55,13 +55,17 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   17 mins             █████████████████████████   100.0%
+Elixir                   5 hrs 3 mins        ████████████████████████░   98.54% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
+Erlang                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+VS Code                  5 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.0%
+Mac                      3 hrs 37 mins       █████████████████░░░░░░░░   70.72% 
+Linux                    1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.28%
 
 ```
 
@@ -70,5 +74,5 @@ Mac                      17 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
