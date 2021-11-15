@@ -22,13 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129727%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129762%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 69 Contributions in the Year 2021
  > 
 > 📦 293.2 kB Used in GitHub's Storage 
  > 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    51 commits     ██████░░░░░░░░░░░░░░░░░░░   27.13% 
-🌆 Daytime    45 commits     ██████░░░░░░░░░░░░░░░░░░░   23.94% 
-🌃 Evening    90 commits     ████████████░░░░░░░░░░░░░   47.87% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+🌞 Morning    51 commits     ██████░░░░░░░░░░░░░░░░░░░   26.84% 
+🌆 Daytime    45 commits     ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+🌃 Evening    92 commits     ████████████░░░░░░░░░░░░░   48.42% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 
 ```
 
@@ -55,17 +55,13 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   5 hrs 3 mins        ████████████████████████░   98.54% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-Erlang                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Elixir                   1 hr 7 mins         █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  1 hr 7 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 37 mins       █████████████████░░░░░░░░   70.72% 
-Linux                    1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.28%
+Linux                    1 hr 7 mins         █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +70,5 @@ Linux                    1 hr 30 mins        ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
