@@ -55,13 +55,13 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   1 hr 7 mins         █████████████████████████   100.0%
+Elixir                   6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.0%
+VS Code                  6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 7 mins         █████████████████████████   100.0%
+Linux                    6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +70,5 @@ Linux                    1 hr 7 mins         ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
