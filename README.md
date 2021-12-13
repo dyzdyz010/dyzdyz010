@@ -24,13 +24,13 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79841%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 69 Contributions in the Year 2021
  > 
-> 📦 293.2 kB Used in GitHub's Storage 
+> 📦 293.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,13 +55,16 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Elixir                   1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   43.37% 
+Other                    1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   38.57% 
+C++                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 44 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +73,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
