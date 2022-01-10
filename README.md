@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
@@ -55,14 +55,13 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   42 mins             █████████████████████████   100.0% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Elixir                   33 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+VS Code                  33 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.0%
+Mac                      33 mins             █████████████████████████   100.0%
 
 ```
 
@@ -71,5 +70,5 @@ Mac                      42 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
