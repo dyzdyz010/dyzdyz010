@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
@@ -41,10 +41,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    48 commits     █████████░░░░░░░░░░░░░░░░   35.82% 
-🌆 Daytime    36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-🌃 Evening    48 commits     █████████░░░░░░░░░░░░░░░░   35.82% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+🌞 Morning    29 commits     ███████░░░░░░░░░░░░░░░░░░   30.53% 
+🌆 Daytime    22 commits     █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+🌃 Evening    42 commits     ███████████░░░░░░░░░░░░░░   44.21% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 ```
 
@@ -55,13 +55,18 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   33 mins             █████████████████████████   100.0%
+Markdown                 1 hr 2 mins         ██████████████░░░░░░░░░░░   59.08% 
+Docker                   31 mins             ███████░░░░░░░░░░░░░░░░░░   30.4% 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+VS Code                  1 hr 45 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.0%
+Mac                      1 hr 34 mins        ██████████████████████░░░   90.03% 
+Windows                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
 
 ```
 
@@ -70,5 +75,5 @@ Mac                      33 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
