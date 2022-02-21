@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
@@ -55,13 +55,17 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             █████████░░░░░░░░░░░░░░░░   36.14% 
+JSON                     11 mins             ████████░░░░░░░░░░░░░░░░░   35.13% 
+JavaScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   26.66% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +74,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 00:29:11 UTC
+ Last Updated on 21/02/2022 00:34:07 UTC
 <!--END_SECTION:waka-->
