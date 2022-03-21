@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
@@ -55,17 +55,17 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        5 mins              ██████████░░░░░░░░░░░░░░░   39.94% 
-INI                      4 mins              ████████░░░░░░░░░░░░░░░░░   34.47% 
-Go                       3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.83% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+C                        3 hrs 39 mins       ██████████████████████░░░   89.88% 
+INI                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
+Kconfig                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+VS Code                  4 hrs 4 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.0%
+Mac                      4 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +74,5 @@ Mac                      14 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 00:07:23 UTC
+ Last Updated on 21/03/2022 00:08:55 UTC
 <!--END_SECTION:waka-->
