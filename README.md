@@ -57,17 +57,13 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ██████████████████████░░░   89.33% 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
-Elixir                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,5 +72,5 @@ Mac                      1 hr 15 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 00:09:39 UTC
+ Last Updated on 06/06/2022 00:08:02 UTC
 <!--END_SECTION:waka-->
