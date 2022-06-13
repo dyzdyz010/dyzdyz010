@@ -24,15 +24,15 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 56 Contributions in the Year 2022
+> 🏆 80 Contributions in the Year 2022
  > 
-> 📦 305.4 kB Used in GitHub's Storage 
+> 📦 306.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,10 +43,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    40 commits     ██████░░░░░░░░░░░░░░░░░░░   26.85% 
-🌆 Daytime    45 commits     ███████░░░░░░░░░░░░░░░░░░   30.2% 
-🌃 Evening    60 commits     ██████████░░░░░░░░░░░░░░░   40.27% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+🌞 Morning    45 commits     ██████░░░░░░░░░░░░░░░░░░░   26.01% 
+🌆 Daytime    56 commits     ████████░░░░░░░░░░░░░░░░░   32.37% 
+🌃 Evening    68 commits     █████████░░░░░░░░░░░░░░░░   39.31% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
 
 ```
 
@@ -57,13 +57,18 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Elixir                   11 hrs 34 mins      █████████████████░░░░░░░░   68.84% 
+Markdown                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Vue.js                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
+Python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 hrs 48 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 hrs 16 mins      ███████████████████░░░░░░   78.96% 
+Windows                  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04%
 
 ```
 
@@ -72,5 +77,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 00:08:02 UTC
+ Last Updated on 13/06/2022 00:08:26 UTC
 <!--END_SECTION:waka-->
