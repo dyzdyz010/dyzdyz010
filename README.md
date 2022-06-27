@@ -24,13 +24,13 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 82 Contributions in the Year 2022
+> 🏆 91 Contributions in the Year 2022
  > 
 > 📦 306.1 kB Used in GitHub's Storage 
  > 
@@ -43,10 +43,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    46 commits     ██████░░░░░░░░░░░░░░░░░░░   26.29% 
-🌆 Daytime    57 commits     ████████░░░░░░░░░░░░░░░░░   32.57% 
-🌃 Evening    68 commits     █████████░░░░░░░░░░░░░░░░   38.86% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+🌞 Morning    48 commits     ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+🌆 Daytime    61 commits     ████████░░░░░░░░░░░░░░░░░   33.15% 
+🌃 Evening    71 commits     █████████░░░░░░░░░░░░░░░░   38.59% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 ```
 
@@ -57,18 +57,18 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   39.66% 
-Other                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.36%
+Elixir                   5 hrs 8 mins        ███████████████░░░░░░░░░░   59.82% 
+Other                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
+Protocol Buffer          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 36 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       ███████████████████░░░░░░   77.52% 
-Windows                  57 mins             █████░░░░░░░░░░░░░░░░░░░░   22.48%
+Mac                      6 hrs 50 mins       ███████████████████░░░░░░   79.43% 
+WSL                      1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.57%
 
 ```
 
@@ -77,5 +77,5 @@ Windows                  57 mins             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 00:08:48 UTC
+ Last Updated on 27/06/2022 00:09:05 UTC
 <!--END_SECTION:waka-->
