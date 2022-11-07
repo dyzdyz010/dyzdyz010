@@ -22,15 +22,15 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 321 Contributions in the Year 2022
+> 🏆 322 Contributions in the Year 2022
  > 
 > 📦 361.5 kB Used in GitHub's Storage 
  > 
@@ -43,10 +43,10 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    78 commits     ██████░░░░░░░░░░░░░░░░░░░   24.22% 
-🌆 Daytime    139 commits    ██████████░░░░░░░░░░░░░░░   43.17% 
-🌃 Evening    102 commits    ████████░░░░░░░░░░░░░░░░░   31.68% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+🌞 Morning    77 commits     ██████░░░░░░░░░░░░░░░░░░░   24.68% 
+🌆 Daytime    138 commits    ███████████░░░░░░░░░░░░░░   44.23% 
+🌃 Evening    94 commits     ███████░░░░░░░░░░░░░░░░░░   30.13% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 ```
 
@@ -57,19 +57,18 @@ I'm a non-professional programmer, trying something new everyday.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   13 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.95% 
-C++                      7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81% 
-Rust                     3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-C                        3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
-Protocol Buffer          2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.56%
+Dart                     3 hrs 46 mins       █████████████░░░░░░░░░░░░   51.97% 
+Rust                     2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.13% 
+C                        48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
 🔥 Editors: 
-VS Code                  18 hrs 45 mins      ████████████████░░░░░░░░░   64.75% 
-Rider                    10 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   35.25%
+VS Code                  7 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      18 hrs 45 mins      ████████████████░░░░░░░░░   64.75% 
-Windows                  10 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   35.25%
+Windows                  3 hrs 55 mins       █████████████░░░░░░░░░░░░   53.94% 
+WSL                      3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   46.06%
 
 ```
 
@@ -78,5 +77,5 @@ Windows                  10 hrs 12 mins      ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 00:09:49 UTC
+ Last Updated on 07/11/2022 00:11:47 UTC
 <!--END_SECTION:waka-->
