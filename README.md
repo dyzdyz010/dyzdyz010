@@ -22,11 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 507.4 kB Used in GitHub's Storage 
+> 📦 507.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,6 +36,45 @@ I'm a non-professional programmer, trying something new everyday.
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                464 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌆 Daytime                500 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌃 Evening                593 commits         █████████░░░░░░░░░░░░░░░░   37.46 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Tuesday                  220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Thursday                 321 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Friday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Sunday                   138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Elixir** 
 
 ```text
@@ -51,5 +92,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 18:39:29 UTC
+ Last Updated on 09/09/2024 18:40:22 UTC
 <!--END_SECTION:waka-->
