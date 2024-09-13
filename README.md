@@ -24,13 +24,11 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 507.4 kB Used in GitHub's Storage 
- > 
-> 🏆 235 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +92,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2024 18:40:44 UTC
+ Last Updated on 13/09/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
