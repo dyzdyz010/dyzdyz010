@@ -24,11 +24,13 @@ I'm a non-professional programmer, trying something new everyday.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 507.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 235 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,16 +65,13 @@ Sunday                   138 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   55 mins             █████████████████████████   99.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Elixir                   55 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   55 mins             █████████████████████████   99.64 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Cursor                   55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-explat                   55 mins             █████████████████████████   99.64 % 
-dify                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+explat                   55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 WSL                      55 mins             █████████████████████████   100.00 % 
@@ -95,5 +94,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 18:40:46 UTC
+ Last Updated on 24/09/2024 18:41:37 UTC
 <!--END_SECTION:waka-->
