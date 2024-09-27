@@ -22,13 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 507.5 kB Used in GitHub's Storage 
+> 📦 507.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,26 +63,26 @@ Sunday                   138 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   2 hrs 55 mins       █████████████████████████   100.00 % 
+Elixir                   4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 55 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-explat                   2 hrs 55 mins       █████████████████████████   100.00 % 
+explat                   4 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 55 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
 
 ```text
-Elixir                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Swift                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Elixir                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 
 
@@ -92,5 +92,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2024 18:40:13 UTC
+ Last Updated on 27/09/2024 18:40:50 UTC
 <!--END_SECTION:waka-->
