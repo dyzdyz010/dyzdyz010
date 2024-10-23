@@ -22,13 +22,15 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C824%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 507.8 kB Used in GitHub's Storage 
+> 📦 507.9 kB Used in GitHub's Storage 
  > 
-> 🏆 262 Contributions in the Year 2024
+> 🏆 263 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,6 +38,51 @@ I'm a non-professional programmer, trying something new everyday.
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                470 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌆 Daytime                511 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
+🌃 Evening                603 commits         █████████░░░░░░░░░░░░░░░░   37.45 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Wednesday                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday                 326 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Elixir                   3 hrs 21 mins       █████████████████████████   99.17 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Safari                   3 hrs 7 mins        ███████████████████████░░   92.23 % 
+Cursor                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Warp                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+
+🐱‍💻 Projects: 
+login/oauth              3 hrs 7 mins        ███████████████████████░░   92.23 % 
+teacher_tool_server      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+
+💻 Operating System: 
+Mac                      3 hrs 8 mins        ███████████████████████░░   93.02 % 
+WSL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+```
+
 **I Mostly Code in Elixir** 
 
 ```text
@@ -53,5 +100,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 18:41:19 UTC
+ Last Updated on 23/10/2024 18:41:37 UTC
 <!--END_SECTION:waka-->
