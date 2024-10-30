@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C827%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,19 +63,20 @@ Sunday                   151 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   56 mins             █████████████████████░░░░   84.65 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Elixir                   2 hrs 40 mins       ███████████████████████░░   93.82 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 6 mins         █████████████████████████   100.00 % 
+Cursor                   2 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teacher_tool_server      1 hr 6 mins         █████████████████████████   100.00 % 
+teacher_tool_server      2 hrs 50 mins       █████████████████████████   99.75 % 
+explat                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-WSL                      1 hr 6 mins         █████████████████████████   100.00 % 
+WSL                      2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -95,5 +96,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2024 18:41:36 UTC
+ Last Updated on 30/10/2024 18:42:06 UTC
 <!--END_SECTION:waka-->
