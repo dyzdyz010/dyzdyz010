@@ -22,13 +22,15 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 508.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 273 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,18 +65,22 @@ Sunday                   151 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   2 hrs 43 mins       ████████████████████████░   96.59 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Elixir                   2 hrs 29 mins       ██████████████████████░░░   88.48 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 49 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teacher_tool_server      2 hrs 48 mins       █████████████████████████   99.75 % 
+teacher_tool_server      2 hrs 28 mins       ██████████████████████░░░   88.29 % 
+playground               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 explat                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-WSL                      2 hrs 49 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -94,5 +100,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2024 18:41:27 UTC
+ Last Updated on 01/11/2024 18:40:57 UTC
 <!--END_SECTION:waka-->
