@@ -22,6 +22,8 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C831%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -36,6 +38,45 @@ I'm a non-professional programmer, trying something new everyday.
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                473 commits         ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+🌆 Daytime                515 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌃 Evening                614 commits         █████████░░░░░░░░░░░░░░░░   37.71 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Tuesday                  227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Wednesday                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 328 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Friday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Saturday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Sunday                   146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Elixir                   2 hrs 51 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   2 hrs 51 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cms_play                 2 hrs 51 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      2 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Elixir** 
 
 ```text
@@ -53,5 +94,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:37:20 UTC
+ Last Updated on 11/11/2024 18:38:45 UTC
 <!--END_SECTION:waka-->
