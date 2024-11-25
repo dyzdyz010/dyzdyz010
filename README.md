@@ -22,15 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C837%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C837%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 508.2 kB Used in GitHub's Storage 
- > 
-> 🏆 286 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,21 +63,21 @@ Sunday                   146 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   3 hrs 21 mins       ███████████████████░░░░░░   77.32 % 
-YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Elixir                   3 hrs 32 mins       ████████████████████░░░░░   78.28 % 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 20 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teacher_tool_server      2 hrs 15 mins       █████████████░░░░░░░░░░░░   51.90 % 
-cms_play                 2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.10 % 
+cms_play                 2 hrs 16 mins       █████████████░░░░░░░░░░░░   50.29 % 
+teacher_tool_server      2 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.71 % 
 
 💻 Operating System: 
-WSL                      4 hrs 20 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -99,5 +97,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 18:38:28 UTC
+ Last Updated on 25/11/2024 18:40:14 UTC
 <!--END_SECTION:waka-->
