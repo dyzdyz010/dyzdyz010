@@ -28,9 +28,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 **🐱 My GitHub Data** 
 
-> 📦 527.2 kB Used in GitHub's Storage 
- > 
-> 🏆 311 Contributions in the Year 2024
+> 📦 527.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,5 +101,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 18:37:46 UTC
+ Last Updated on 23/12/2024 18:38:47 UTC
 <!--END_SECTION:waka-->
