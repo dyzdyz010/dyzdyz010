@@ -30,8 +30,6 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 528.6 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -65,26 +63,16 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     5 hrs 42 mins       ████████████████████░░░░░   81.74 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   4 hrs 25 mins       ████████████████░░░░░░░░░   63.44 % 
-Safari                   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Warp                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-efdemo                   4 hrs 57 mins       ██████████████████░░░░░░░   71.04 % 
-emilk/egui               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-dyzdyz010/efdemo         56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-longbridge/rust-i18n     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-projectfluent/fluent-rs  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 58 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Elixir** 
@@ -104,5 +92,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 18:39:44 UTC
+ Last Updated on 12/02/2025 18:39:27 UTC
 <!--END_SECTION:waka-->
