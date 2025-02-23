@@ -30,6 +30,8 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 528.6 kB Used in GitHub's Storage 
  > 
+> 🏆 102 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -100,5 +102,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:37:15 UTC
+ Last Updated on 23/02/2025 18:37:23 UTC
 <!--END_SECTION:waka-->
