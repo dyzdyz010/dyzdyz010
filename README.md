@@ -30,6 +30,8 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 528.6 kB Used in GitHub's Storage 
  > 
+> 🏆 102 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -63,24 +65,16 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 1 min          ██████████████░░░░░░░░░░░   55.33 % 
-Python                   37 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   1 hr 42 mins        ███████████████████████░░   91.82 % 
-Warp                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FunAudioLLM/CosyVoice?tab1 hr 30 mins        ████████████████████░░░░░   81.16 % 
-PlayCover/PlayCover      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-efdemo                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-2noise/ChatTTS           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-CosyVoice                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Elixir** 
@@ -100,5 +94,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2025 18:39:57 UTC
+ Last Updated on 26/02/2025 18:39:26 UTC
 <!--END_SECTION:waka-->
