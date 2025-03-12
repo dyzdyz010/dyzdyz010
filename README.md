@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,16 +65,22 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      1 hr 7 mins         █████████████░░░░░░░░░░░░   51.84 % 
+TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+SCSS                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nordstjerna              1 hr 46 mins        ████████████████████░░░░░   81.12 % 
+ske                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+style                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -94,5 +100,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:40:30 UTC
+ Last Updated on 12/03/2025 18:40:49 UTC
 <!--END_SECTION:waka-->
