@@ -30,6 +30,8 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 529.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -97,5 +99,5 @@ CSS                      5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2025 18:40:28 UTC
+ Last Updated on 01/04/2025 18:40:49 UTC
 <!--END_SECTION:waka-->
