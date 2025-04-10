@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C931%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C933%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,11 +30,9 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 529.6 kB Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
@@ -65,20 +63,19 @@ Sunday                   166 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     30 mins             ███████████████████████░░   92.21 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSS                      1 hr 5 mins         ████████████████████░░░░░   80.59 % 
+TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Cursor                   32 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Spark-TTS                30 mins             ███████████████████████░░   92.21 % 
-Spark-TTS-0.5B           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+nordstjerna              1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      32 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -98,5 +95,5 @@ CSS                      5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2025 18:41:07 UTC
+ Last Updated on 10/04/2025 18:39:19 UTC
 <!--END_SECTION:waka-->
