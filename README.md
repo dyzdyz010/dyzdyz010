@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C981%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C986%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,9 +30,11 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 529.9 kB Used in GitHub's Storage 
  > 
+> 🏆 148 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
@@ -63,22 +65,21 @@ Sunday                   170 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   13 hrs 41 mins      ████████████████░░░░░░░░░   62.72 % 
-Lua                      7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Elixir                   14 hrs 16 mins      ██████████████░░░░░░░░░░░   54.76 % 
+Lua                      10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   41.37 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 49 mins      █████████████████████████   100.00 % 
+Cursor                   26 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-explat_next              18 hrs 57 mins      ██████████████████████░░░   86.88 % 
-exqs                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-genex                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+explat_next              24 hrs 10 mins      ███████████████████████░░   92.72 % 
+exqs                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 💻 Operating System: 
-WSL                      21 hrs 49 mins      █████████████████████████   100.00 % 
+WSL                      26 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -98,5 +99,5 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 18:41:35 UTC
+ Last Updated on 23/05/2025 18:41:34 UTC
 <!--END_SECTION:waka-->
