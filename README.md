@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C036%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C037%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,11 +30,11 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 530.2 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2025
+> 🏆 167 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 39 Private Repositories 
  > 
@@ -65,16 +65,20 @@ Sunday                   170 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Elixir                   42 mins             █████████████████████████   99.60 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Safari                   42 mins             █████████████████████████   98.74 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Warp                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+iced                     42 mins             █████████████████████████   99.14 % 
+explat                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -94,5 +98,5 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 18:40:54 UTC
+ Last Updated on 29/06/2025 18:40:49 UTC
 <!--END_SECTION:waka-->
