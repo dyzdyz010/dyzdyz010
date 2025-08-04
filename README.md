@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,7 +30,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 530.1 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,16 +65,17 @@ Sunday                   170 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              ███████████████████████░░   92.71 % 
+Elixir                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -94,5 +95,5 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 18:43:10 UTC
+ Last Updated on 04/08/2025 18:45:52 UTC
 <!--END_SECTION:waka-->
