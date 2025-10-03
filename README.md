@@ -22,8 +22,6 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C125%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -38,45 +36,6 @@ I'm a non-professional programmer, trying something new everyday.
  > 
 > 🔑 46 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                511 commits         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-🌆 Daytime                603 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌃 Evening                767 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌙 Night                  30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   326 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Thursday                 357 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Friday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Sunday                   179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Elixir** 
 
 ```text
@@ -94,5 +53,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:41:35 UTC
+ Last Updated on 03/10/2025 18:42:00 UTC
 <!--END_SECTION:waka-->
