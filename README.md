@@ -22,13 +22,13 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C288%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 544.1 kB Used in GitHub's Storage 
+> 📦 544.2 kB Used in GitHub's Storage 
  > 
 > 🏆 307 Contributions in the Year 2025
  > 
@@ -65,21 +65,21 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     6 hrs 24 mins       █████████████████░░░░░░░░   68.00 % 
-WebAssembly Interface Typ1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Rust                     6 hrs 46 mins       ████████████████░░░░░░░░░   64.94 % 
+JSON                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+WebAssembly Interface Typ1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 25 mins       █████████████████████████   100.00 % 
+Cursor                   10 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-operator_mvp             9 hrs 11 mins       ████████████████████████░   97.36 % 
-engine                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+operator_mvp             10 hrs 10 mins      ████████████████████████░   97.61 % 
+engine                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -99,5 +99,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2025 18:44:50 UTC
+ Last Updated on 19/11/2025 18:44:08 UTC
 <!--END_SECTION:waka-->
