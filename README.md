@@ -22,9 +22,9 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C786%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C787%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,18 +65,17 @@ Sunday                   900 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 13 mins       █████████████████████████   98.28 % 
-Rust                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Other                    2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   2 hrs 3 mins        ███████████████████████░░   90.51 % 
-Warp                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Safari                   1 hr 55 mins        ██████████████████████░░░   89.97 % 
+Warp                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 🐱‍💻 Projects: 
-device                   2 hrs 16 mins       █████████████████████████   100.00 % 
+device                   2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -96,5 +95,5 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 20:06:41 UTC
+ Last Updated on 18/06/2026 20:10:01 UTC
 <!--END_SECTION:waka-->
