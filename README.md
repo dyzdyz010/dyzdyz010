@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C039%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C041%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,521 Contributions in the Year 2026
+> 🏆 4,522 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,20 +42,20 @@ I'm a non-professional programmer, trying something new everyday.
 
 ```text
 🌞 Morning                3339 commits        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-🌆 Daytime                4630 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌃 Evening                4430 commits        ████████░░░░░░░░░░░░░░░░░   32.26 % 
+🌆 Daytime                4631 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌃 Evening                4433 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
 🌙 Night                  1334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  2678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Wednesday                2014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Monday                   2043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  2678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                2014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 Thursday                 1839 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   1646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Saturday                 1652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Sunday                   1861 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   1646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Saturday                 1655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Sunday                   1862 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 ```
 
 
@@ -65,21 +65,29 @@ Sunday                   1861 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ███████████████░░░░░░░░░░   60.87 % 
-Markdown                 40 mins             ██████████░░░░░░░░░░░░░░░   39.13 % 
+Markdown                 1 hr 8 mins         █████████████░░░░░░░░░░░░   53.45 % 
+Typst                    46 mins             █████████░░░░░░░░░░░░░░░░   36.86 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Safari                   1 hr 23 mins        ████████████████████░░░░░   81.95 % 
-Warp                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Cursor                   1 hr 16 mins        ███████████████░░░░░░░░░░   59.90 % 
+VS Code                  41 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Warp                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-scmu-eval-kit            1 hr 24 mins        █████████████████████░░░░   82.40 % 
-orca                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-fireworks                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+TheWorldBook             1 hr 50 mins        ██████████████████████░░░   86.46 % 
+finishing-a-development-b6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+20260326                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+orca                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        ████████████████████████░   97.86 % 
+Mac                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -99,5 +107,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:48:39 UTC
+ Last Updated on 26/07/2026 19:54:34 UTC
 <!--END_SECTION:waka-->
