@@ -22,7 +22,9 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C041%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C596%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-672%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -30,7 +32,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,522 Contributions in the Year 2026
+> 🏆 4,539 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +43,21 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3339 commits        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-🌆 Daytime                4631 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌃 Evening                4433 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-🌙 Night                  1334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌞 Morning                3339 commits        ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌆 Daytime                4652 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
+🌃 Evening                4448 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
+🌙 Night                  1334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Tuesday                  2678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Wednesday                2014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Thursday                 1839 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   1646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Saturday                 1655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Sunday                   1862 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Monday                   2059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  2678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Wednesday                2014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Thursday                 1839 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Friday                   1646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Saturday                 1655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Sunday                   1882 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 
 
@@ -90,6 +92,29 @@ Windows                  2 hrs 4 mins        ███████████�
 Mac                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 57 mins (92.28%)
+
+✍️ 952 lines written by AI, 2 lines written by hand (99.79% AI-written)
+
+🔤 25,490,849 Input Tokens, 112,760 Output Tokens
+
+💵 $130.77 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 21 AI Prompts
+
+GPT                      1,004 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.79% of written lines came from AI
+📝 Concise Prompter — average 214 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
+```
+
 **I Mostly Code in Elixir** 
 
 ```text
@@ -107,5 +132,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:54:34 UTC
+ Last Updated on 27/07/2026 20:12:42 UTC
 <!--END_SECTION:waka-->
