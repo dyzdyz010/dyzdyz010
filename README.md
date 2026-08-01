@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-680%20hrs%2045%20mins-blue?style=flat)
 
@@ -67,40 +67,43 @@ Sunday                   1903 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 23 mins       █████████████░░░░░░░░░░░░   51.52 % 
-Elixir                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Typst                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
+Elixir                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Typst                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 45 mins       ██████████████░░░░░░░░░░░   54.45 % 
-Claude Code              2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-VS Code                  2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Cursor                   6 hrs 45 mins       ███████████████░░░░░░░░░░   59.52 % 
+Claude Code              2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Warp                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Safari                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-TheWorldBook             3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
-dramatizer               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Yggdrasil                2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-operator_demo            1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-申博材料                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Yggdrasil                3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+dramatizer               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+TheWorldBook             1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+operator_demo            1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+申博材料                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 
 💻 Operating System: 
-Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs              ██████████████████████░░░   88.20 % 
+Mac                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 15 mins (98.83%)
+⏱ AI Coding Time: 9 hrs 51 mins (86.92%)
 
-✍️ 10,145 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 10,126 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 420,192,514 Input Tokens, 1,168,767 Output Tokens
+🔤 397,927,053 Input Tokens, 983,195 Output Tokens
 
-💵 $1108.16 Estimated AI Cost This Week
+💵 $1006.69 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 121 AI Prompts
+🧠 23 AI Sessions, 103 AI Prompts
 
 Composer                 5,702 lines         ████████████████░░░░░░░░░   64.33 % 
 GPT                      1,622 lines         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
@@ -109,7 +112,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,217 characters per prompt
+📄 Detailed Prompter — average 1,288 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -131,5 +134,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:16:24 UTC
+ Last Updated on 01/08/2026 19:58:01 UTC
 <!--END_SECTION:waka-->
