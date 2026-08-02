@@ -32,7 +32,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,857 Contributions in the Year 2026
+> 🏆 4,897 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +43,21 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3419 commits        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌆 Daytime                4825 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
-🌃 Evening                4600 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌙 Night                  1401 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌞 Morning                3419 commits        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌆 Daytime                4825 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
+🌃 Evening                4632 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌙 Night                  1406 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2080 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Tuesday                  2767 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Wednesday                2196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Thursday                 1955 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Friday                   1669 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 1675 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Sunday                   1903 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Monday                   2085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  2767 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Wednesday                2209 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 1955 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   1669 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 1675 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Sunday                   1922 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -67,54 +67,54 @@ Sunday                   1903 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
-Elixir                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Typst                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown                 4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.22 % 
+Elixir                   2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+PowerShell               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 45 mins       ███████████████░░░░░░░░░░   59.52 % 
-Claude Code              2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Warp                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Safari                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Cursor                   6 hrs 46 mins       ████████████████░░░░░░░░░   63.06 % 
+Claude Code              2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Warp                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Safari                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Yggdrasil                3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-dramatizer               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-TheWorldBook             1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-operator_demo            1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-申博材料                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Yggdrasil                4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.58 % 
+dramatizer               2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+申博材料                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+operator_demo            1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+mpf-ci-templates         54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-Windows                  10 hrs              ██████████████████████░░░   88.20 % 
-Mac                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Windows                  9 hrs 24 mins       ██████████████████████░░░   87.55 % 
+Mac                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 51 mins (86.92%)
+⏱ AI Coding Time: 9 hrs 23 mins (87.43%)
 
-✍️ 10,126 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 9,259 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 397,927,053 Input Tokens, 983,195 Output Tokens
+🔤 407,350,671 Input Tokens, 1,053,240 Output Tokens
 
-💵 $1006.69 Estimated AI Cost This Week
+💵 $1017.75 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 103 AI Prompts
+🧠 16 AI Sessions, 98 AI Prompts
 
-Composer                 5,702 lines         ████████████████░░░░░░░░░   64.33 % 
-GPT                      1,622 lines         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Sonnet                   1,539 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Composer                 5,786 lines         ██████████████████░░░░░░░   72.83 % 
+Sonnet                   1,539 lines         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+GPT                      620 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,288 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,402 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Elixir** 
@@ -134,5 +134,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:58:01 UTC
+ Last Updated on 02/08/2026 19:59:17 UTC
 <!--END_SECTION:waka-->
