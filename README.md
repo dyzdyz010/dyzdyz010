@@ -22,9 +22,9 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C610%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-680%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-687%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -67,53 +67,53 @@ Sunday                   1955 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-Elixir                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Other                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-YAML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Swift                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Markdown                 3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Other                    2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+YAML                     2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Swift                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Elixir                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.98 % 
-Claude Code              3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Warp                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Codex CLI                1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Xcode                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Claude Code              4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Cursor                   3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Warp                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Codex CLI                1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Xcode                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🐱‍💻 Projects: 
-Yggdrasil                4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-dramatizer               2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-operator_demo            2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-LifeTimer                2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-申博材料                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Yggdrasil                2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+LifeTimer                2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+operator_demo            2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+dramatizer               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+20260326                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 
 💻 Operating System: 
-Windows                  11 hrs 2 mins       ██████████████████░░░░░░░   71.78 % 
-Mac                      4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Windows                  8 hrs 58 mins       █████████████████░░░░░░░░   67.39 % 
+Mac                      4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 43 mins (82.66%)
+⏱ AI Coding Time: 10 hrs 39 mins (79.96%)
 
-✍️ 16,416 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 21,080 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 488,832,937 Input Tokens, 1,435,529 Output Tokens
+🔤 450,653,023 Input Tokens, 1,408,476 Output Tokens
 
-💵 $1395.86 Estimated AI Cost This Week
+💵 $1496.56 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 142 AI Prompts
+🧠 80 AI Sessions, 157 AI Prompts
 
-GPT                      7,370 lines         ████████████░░░░░░░░░░░░░   49.06 % 
-Composer                 5,786 lines         ██████████░░░░░░░░░░░░░░░   38.52 % 
-Sonnet                   1,539 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Opus                     327 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+GPT                      12,645 lines        ███████████████░░░░░░░░░░   59.24 % 
+Composer                 4,477 lines         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Opus                     2,685 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Sonnet                   1,539 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 972 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,359 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -134,5 +134,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:19:53 UTC
+ Last Updated on 05/08/2026 21:21:48 UTC
 <!--END_SECTION:waka-->
