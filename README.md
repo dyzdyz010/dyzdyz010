@@ -22,13 +22,17 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C611%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-687%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 5,115 Contributions in the Year 2026
+> 🏆 5,215 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,12 +40,89 @@ I'm a non-professional programmer, trying something new everyday.
  > 
 > 🔑 77 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3591 commits        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+🌆 Daytime                5038 commits        ████████░░░░░░░░░░░░░░░░░   33.72 % 
+🌃 Evening                4795 commits        ████████░░░░░░░░░░░░░░░░░   32.09 % 
+🌙 Night                  1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2158 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Tuesday                  2871 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Wednesday                2328 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Thursday                 2054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Friday                   1788 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Saturday                 1787 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Sunday                   1955 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Other                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Swift                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Elixir                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
+Codex CLI                1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Cursor                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Warp                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Xcode                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+
+🐱‍💻 Projects: 
+LifeTimer                2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+20260326                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+operator_demo            52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+oauth                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+calix_server             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+
+💻 Operating System: 
+Windows                  5 hrs 39 mins       ████████████████░░░░░░░░░   65.28 % 
+Mac                      3 hrs               █████████░░░░░░░░░░░░░░░░   34.72 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 20 mins (84.77%)
+
+✍️ 15,425 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 234,122,261 Input Tokens, 1,017,251 Output Tokens
+
+💵 $1234.95 Estimated AI Cost This Week
+
+🧠 77 AI Sessions, 118 AI Prompts
+
+GPT                      12,508 lines        ████████████████████░░░░░   80.65 % 
+Opus                     2,911 lines         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Fable                    90 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 1,039 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in Elixir** 
 
 ```text
-C++                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 TypeScript               18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Rust                     15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Rust                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
@@ -53,5 +134,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:45:26 UTC
+ Last Updated on 07/08/2026 20:47:26 UTC
 <!--END_SECTION:waka-->
