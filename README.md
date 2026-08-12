@@ -67,52 +67,52 @@ Sunday                   1967 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.71 % 
-YAML                     2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Elixir                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Markdown                 5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Elixir                   2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Bash                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+YAML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
-Codex CLI                2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
-Cursor                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Exec Wakatime            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Claude Code              12 hrs 22 mins      ██████████████████░░░░░░░   71.00 % 
+Codex CLI                4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Cursor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🐱‍💻 Projects: 
-mpf-ci-templates         1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-20260326                 1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-VISA                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-calix_server             40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-mpf-mono                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+mpf-ci-templates         7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
+calix_server             4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+operator_demo            2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+03_导师沟通                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+06_本硕论文原始材料              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 💻 Operating System: 
-Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 34 mins (98.21%)
+⏱ AI Coding Time: 17 hrs 18 mins (99.31%)
 
-✍️ 9,583 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 13,610 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 144,129,102 Input Tokens, 764,374 Output Tokens
+🔤 333,082,208 Input Tokens, 2,115,411 Output Tokens
 
-💵 $760.92 Estimated AI Cost This Week
+💵 $2296.08 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 99 AI Prompts
+🧠 21 AI Sessions, 123 AI Prompts
 
-GPT                      7,109 lines         ██████████████████░░░░░░░   73.34 % 
-Opus                     2,584 lines         ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Opus                     9,211 lines         ████████████████░░░░░░░░░   63.25 % 
+Fable                    3,449 lines         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+GPT                      1,774 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Sonnet                   129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 6,714 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 38,494 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Elixir** 
@@ -132,5 +132,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 21:18:22 UTC
+ Last Updated on 12/08/2026 21:00:27 UTC
 <!--END_SECTION:waka-->
