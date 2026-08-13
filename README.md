@@ -22,11 +22,11 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C613%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C614%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-690%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-691%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,52 +67,51 @@ Sunday                   1967 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Elixir                   2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Bash                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-YAML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
+Other                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Bash                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+PowerShell               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 22 mins      ██████████████████░░░░░░░   71.00 % 
-Codex CLI                4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Cursor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Codex CLI                4 hrs 10 mins       █████████████░░░░░░░░░░░░   52.50 % 
+Claude Code              2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
+Cursor                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 🐱‍💻 Projects: 
-mpf-ci-templates         7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
-calix_server             4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-operator_demo            2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-03_导师沟通                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-06_本硕论文原始材料              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+mpf-ci-templates         4 hrs 36 mins       ██████████████░░░░░░░░░░░   57.96 % 
+06_本硕论文原始材料              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+VISA                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+operator_demo            43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 Operating System: 
-Windows                  17 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 18 mins (99.31%)
+⏱ AI Coding Time: 7 hrs 49 mins (98.49%)
 
-✍️ 13,610 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 2,689 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 333,082,208 Input Tokens, 2,115,411 Output Tokens
+🔤 7,972,594 Input Tokens, 700,392 Output Tokens
 
-💵 $2296.08 Estimated AI Cost This Week
+💵 $151.00 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 123 AI Prompts
+🧠 13 AI Sessions, 66 AI Prompts
 
-Opus                     9,211 lines         ████████████████░░░░░░░░░   63.25 % 
-Fable                    3,449 lines         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-GPT                      1,774 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Sonnet                   129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+GPT                      1,774 lines         ████████████████░░░░░░░░░   64.86 % 
+Opus                     558 lines           █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Fable                    403 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 38,494 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 70,457 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Elixir** 
@@ -132,5 +131,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 21:00:27 UTC
+ Last Updated on 13/08/2026 21:14:47 UTC
 <!--END_SECTION:waka-->
