@@ -67,51 +67,48 @@ Sunday                   1967 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
-Other                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Bash                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-PowerShell               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Markdown                 1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   41.97 % 
+PowerShell               47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Other                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+YAML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 10 mins       █████████████░░░░░░░░░░░░   52.50 % 
-Claude Code              2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
-Cursor                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Codex CLI                3 hrs 23 mins       ████████████████████░░░░░   81.91 % 
+Cursor                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 
 🐱‍💻 Projects: 
-mpf-ci-templates         4 hrs 36 mins       ██████████████░░░░░░░░░░░   57.96 % 
-06_本硕论文原始材料              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-VISA                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-operator_demo            43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+mpf-ci-templates         2 hrs 42 mins       ████████████████░░░░░░░░░   65.47 % 
+VISA                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+20260326                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+mpf-dev                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 49 mins (98.49%)
+⏱ AI Coding Time: 4 hrs (97.1%)
 
-✍️ 2,689 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 1,555 lines written by AI, 2 lines written by hand (99.87% AI-written)
 
-🔤 7,972,594 Input Tokens, 700,392 Output Tokens
+🔤 3,450,998 Input Tokens, 247,769 Output Tokens
 
-💵 $151.00 Estimated AI Cost This Week
+💵 $56.55 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 66 AI Prompts
+🧠 7 AI Sessions, 38 AI Prompts
 
-GPT                      1,774 lines         ████████████████░░░░░░░░░   64.86 % 
-Opus                     558 lines           █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Fable                    403 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+GPT                      1,591 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 70,457 characters per prompt
+🤖 AI-Driven — 99.87% of written lines came from AI
+📚 Verbose Prompter — average 14,538 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Elixir** 
@@ -131,5 +128,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 21:14:47 UTC
+ Last Updated on 14/08/2026 21:12:48 UTC
 <!--END_SECTION:waka-->
