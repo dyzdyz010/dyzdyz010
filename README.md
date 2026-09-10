@@ -22,9 +22,9 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C643%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-724%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-728%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -32,7 +32,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 7,026 Contributions in the Year 2026
+> 🏆 7,103 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +43,21 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5758 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌆 Daytime                8157 commits        ████████░░░░░░░░░░░░░░░░░   33.06 % 
-🌃 Evening                7679 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
-🌙 Night                  3081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+🌞 Morning                5779 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+🌆 Daytime                8165 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌃 Evening                7683 commits        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+🌙 Night                  3128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3813 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Tuesday                  5237 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Wednesday                4098 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Thursday                 3086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Friday                   3008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Saturday                 2873 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Sunday                   2560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Monday                   3813 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Tuesday                  5292 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Wednesday                4113 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Thursday                 3088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Friday                   3016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Saturday                 2873 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Sunday                   2560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 
 
@@ -67,55 +67,55 @@ Sunday                   2560 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   8 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
-Other                    6 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-Markdown                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Other                    6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.20 % 
+Elixir                   5 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+YAML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.04 % 
-Codex CLI                7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Warp                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Notes                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Codex CLI                6 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.39 % 
+Warp                     3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Claude Code              3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Notes                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🐱‍💻 Projects: 
-hemi_cms                 13 hrs 11 mins      ██████████████░░░░░░░░░░░   56.20 % 
-rime-ice                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Rime                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-operator_demo            1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-申博材料                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+hemi_cms                 8 hrs 44 mins       █████████████░░░░░░░░░░░░   50.75 % 
+rime-ice                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Rime                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+申博材料                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+zhiwen                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Mac                      18 hrs 57 mins      ████████████████████░░░░░   80.73 % 
-Windows                  4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Mac                      14 hrs 30 mins      █████████████████████░░░░   84.15 % 
+Windows                  2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 13 mins (90.38%)
+⏱ AI Coding Time: 14 hrs 58 mins (86.9%)
 
-✍️ 11,078 lines written by AI, 127 lines written by hand (98.87% AI-written)
+✍️ 7,034 lines written by AI, 126 lines written by hand (98.24% AI-written)
 
-🔤 19,383,414 Input Tokens, 2,217,113 Output Tokens
+🔤 7,496,434 Input Tokens, 1,167,801 Output Tokens
 
-💵 $624.48 Estimated AI Cost This Week
+💵 $287.01 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 234 AI Prompts
+🧠 51 AI Sessions, 153 AI Prompts
 
-Opus                     5,863 lines         █████████████░░░░░░░░░░░░   52.86 % 
-GPT                      4,954 lines         ███████████░░░░░░░░░░░░░░   44.66 % 
-Fable                    275 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+GPT                      4,954 lines         ██████████████████░░░░░░░   70.32 % 
+Opus                     1,816 lines         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Fable                    275 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.87% of written lines came from AI
-📚 Verbose Prompter — average 2,287 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.56% of changed lines were hand-edited
+🤖 AI-Driven — 98.24% of written lines came from AI
+📚 Verbose Prompter — average 1,574 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Elixir** 
@@ -135,5 +135,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 23:37:45 UTC
+ Last Updated on 10/09/2026 23:40:58 UTC
 <!--END_SECTION:waka-->
