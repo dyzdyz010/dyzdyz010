@@ -32,7 +32,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 7,557 Contributions in the Year 2026
+> 🏆 7,583 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +43,21 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6717 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-🌆 Daytime                9617 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌃 Evening                9085 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-🌙 Night                  3625 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+🌞 Morning                6728 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌆 Daytime                9626 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌃 Evening                9097 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+🌙 Night                  3627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4556 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Tuesday                  6254 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Wednesday                4489 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 3509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Friday                   3556 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Saturday                 3410 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Sunday                   3270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Monday                   4556 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Tuesday                  6254 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Wednesday                4489 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Thursday                 3509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Friday                   3557 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 3442 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   3271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
 
@@ -67,32 +67,32 @@ Sunday                   3270 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 16 mins       ████████████████████░░░░░   81.34 % 
-Elixir                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    2 hrs 16 mins       █████████████████░░░░░░░░   67.38 % 
+Elixir                   1 hr                ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-Warp                     1 hr 42 mins        ███████████████░░░░░░░░░░   61.11 % 
-Codex CLI                33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Safari                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Warp                     1 hr 42 mins        █████████████░░░░░░░░░░░░   50.63 % 
+Safari                   1 hr                ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Codex CLI                33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-20260326                 1 hr 40 mins        ███████████████░░░░░░░░░░   59.85 % 
-operator_demo            35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-orca                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-dyz                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+20260326                 1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.58 % 
+orca                     1 hr                ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+operator_demo            35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+dyz                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       ████████████████████░░░░░   80.60 % 
-Windows                  32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Mac                      2 hrs 50 mins       █████████████████████░░░░   83.93 % 
+Windows                  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (31.0%)
+⏱ AI Coding Time: 52 mins (25.68%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -130,5 +130,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 00:47:46 UTC
+ Last Updated on 27/09/2026 00:15:11 UTC
 <!--END_SECTION:waka-->
