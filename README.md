@@ -43,21 +43,21 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6422 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-🌆 Daytime                9159 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
-🌃 Evening                8665 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
-🌙 Night                  3510 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌞 Morning                6513 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌆 Daytime                9296 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌃 Evening                8805 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌙 Night                  3581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4334 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Tuesday                  5988 commits        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Wednesday                4306 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 3364 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Friday                   3409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 3294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Sunday                   3061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Monday                   4407 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Tuesday                  6070 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Wednesday                4360 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Thursday                 3459 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Friday                   3482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 3329 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Sunday                   3088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 ```
 
 
@@ -67,50 +67,25 @@ Sunday                   3061 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 57 mins        ████████████████░░░░░░░░░   63.99 % 
-Elixir                   1 hr                ████████░░░░░░░░░░░░░░░░░   32.80 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Elixir                   59 mins             ██████████████████████░░░   87.11 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 🔥 Editors: 
-Warp                     1 hr 42 mins        ██████████████░░░░░░░░░░░   55.90 % 
-Safari                   1 hr                ████████░░░░░░░░░░░░░░░░░   32.80 % 
-Codex CLI                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Safari                   59 mins             ██████████████████████░░░   87.11 % 
+Warp                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 🐱‍💻 Projects: 
-20260326                 1 hr 40 mins        ██████████████░░░░░░░░░░░   54.74 % 
-orca                     1 hr                ████████░░░░░░░░░░░░░░░░░   32.80 % 
-operator_demo            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-dyz                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+orca                     59 mins             ██████████████████████░░░   87.11 % 
+operator_demo            8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       ███████████████████████░░   92.66 % 
-Windows                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (17.95%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 689,661 Input Tokens, 27,932 Output Tokens
-
-💵 $10.16 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 14 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,429 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Elixir** 
@@ -130,5 +105,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 00:29:21 UTC
+ Last Updated on 29/09/2026 02:56:12 UTC
 <!--END_SECTION:waka-->
