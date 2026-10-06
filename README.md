@@ -22,7 +22,7 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C646%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C646%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-730%20hrs%2025%20mins-blue?style=flat)
 
@@ -30,9 +30,9 @@ I'm a non-professional programmer, trying something new everyday.
 
 **🐱 My GitHub Data** 
 
-> 📦 2.4 MB Used in GitHub's Storage 
+> 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 7,791 Contributions in the Year 2026
+> 🏆 7,794 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,7 +43,7 @@ I'm a non-professional programmer, trying something new everyday.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6974 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+🌞 Morning                6977 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
 🌆 Daytime                10005 commits       ████████░░░░░░░░░░░░░░░░░   32.98 % 
 🌃 Evening                9544 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
 🌙 Night                  3814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
@@ -51,13 +51,13 @@ I'm a non-professional programmer, trying something new everyday.
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4703 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Monday                   4706 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 Tuesday                  6439 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
 Wednesday                4637 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Thursday                 3790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 Friday                   3816 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 Saturday                 3601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Sunday                   3351 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Sunday                   3351 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 ```
 
 
@@ -67,22 +67,22 @@ Sunday                   3351 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   2 hrs 6 mins        █████████████████░░░░░░░░   67.27 % 
-Other                    1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Elixir                   3 hrs 30 mins       ███████████████████░░░░░░   77.32 % 
+Other                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 
 🔥 Editors: 
-Safari                   2 hrs 6 mins        █████████████████░░░░░░░░   67.27 % 
-Warp                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Safari                   3 hrs 30 mins       ███████████████████░░░░░░   77.32 % 
+Warp                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 
 🐱‍💻 Projects: 
-orca                     1 hr 49 mins        ██████████████░░░░░░░░░░░   57.96 % 
-openclaw                 45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-TheWorldBook             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-brewui                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-ex_mmo_cluster           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+orca                     1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   40.16 % 
+PlayCover                1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+openclaw                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+TheWorldBook             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+brewui                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Mac                      3 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,5 +108,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 00:42:29 UTC
+ Last Updated on 06/10/2026 03:24:20 UTC
 <!--END_SECTION:waka-->
