@@ -22,9 +22,9 @@ I'm a non-professional programmer, trying something new everyday.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzdyz010&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C655%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C658%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-732%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-735%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -67,31 +67,31 @@ Sunday                   3679 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   10 hrs 45 mins      ████████████████████░░░░░   80.42 % 
-Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Elixir                   9 hrs 54 mins       ████████████████████░░░░░   79.37 % 
+Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-Safari                   7 hrs 19 mins       ██████████████░░░░░░░░░░░   54.79 % 
-Codex CLI                5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-Warp                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Safari                   6 hrs 28 mins       █████████████░░░░░░░░░░░░   51.90 % 
+Codex CLI                5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
+Warp                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-huanxi                   5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.65 % 
-PlayCover                3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-TheWorldBook             3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-openclaw                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-orca                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+huanxi                   5 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
+PlayCover                3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
+TheWorldBook             2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+openclaw                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+operator_demo            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      8 hrs 2 mins        ███████████████░░░░░░░░░░   60.11 % 
-Windows                  5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
+Mac                      7 hrs 8 mins        ██████████████░░░░░░░░░░░   57.25 % 
+Windows                  5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (39.89%)
+⏱ AI Coding Time: 5 hrs 20 mins (42.75%)
 
 ✍️ 4,735 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -127,5 +127,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 01:54:44 UTC
+ Last Updated on 11/10/2026 01:14:14 UTC
 <!--END_SECTION:waka-->
