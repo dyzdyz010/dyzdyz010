@@ -67,31 +67,30 @@ Sunday                   3724 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   8 hrs 9 mins        ███████████████████░░░░░░   76.01 % 
-Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Elixir                   4 hrs 19 mins       █████████████████░░░░░░░░   66.78 % 
+Markdown                 1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.71 % 
-Safari                   4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.08 % 
-Warp                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Codex CLI                5 hrs 20 mins       █████████████████████░░░░   82.40 % 
+Safari                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Warp                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🐱‍💻 Projects: 
-huanxi                   5 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.41 % 
-TheWorldBook             2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-PlayCover                2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-operator_demo            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-20260326                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+huanxi                   5 hrs 18 mins       ████████████████████░░░░░   81.91 % 
+TheWorldBook             1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+operator_demo            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+20260326                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████░░░░░░░░░░░░   50.29 % 
-Windows                  5 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.71 % 
+Windows                  5 hrs 20 mins       █████████████████████░░░░   82.40 % 
+Mac                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (49.71%)
+⏱ AI Coding Time: 5 hrs 20 mins (82.4%)
 
 ✍️ 4,735 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -127,5 +126,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 04:13:02 UTC
+ Last Updated on 14/10/2026 02:28:51 UTC
 <!--END_SECTION:waka-->
