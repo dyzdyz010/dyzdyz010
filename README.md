@@ -26,7 +26,7 @@ I'm a non-professional programmer, trying something new everyday.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-735%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,40 +67,40 @@ Sunday                   3368 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Elixir                   3 hrs 25 mins       ████████████████░░░░░░░░░   64.26 % 
-Markdown                 1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   34.51 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Elixir                   2 hrs 5 mins        ██████████████████░░░░░░░   71.34 % 
+Markdown                 48 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 20 mins       █████████████████████████   100.00 % 
+Codex CLI                2 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-huanxi                   5 hrs 18 mins       █████████████████████████   99.41 % 
-operator_demo            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+huanxi                   2 hrs 54 mins       █████████████████████████   98.92 % 
+operator_demo            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 20260326                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 56 mins (100.0%)
 
-✍️ 4,735 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,795 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,907,762 Input Tokens, 372,755 Output Tokens
+🔤 1,231,920 Input Tokens, 211,711 Output Tokens
 
-💵 $220.50 Estimated AI Cost This Week
+💵 $155.18 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 3 AI Prompts
 
-GPT                      4,735 lines         █████████████████████████   100.00 % 
+GPT                      1,795 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,800 characters per prompt
+📄 Detailed Prompter — average 1,441 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -122,5 +122,5 @@ Swift                    4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dyzdyz010/dyzdyz010/master/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 01:42:32 UTC
+ Last Updated on 16/10/2026 01:26:35 UTC
 <!--END_SECTION:waka-->
